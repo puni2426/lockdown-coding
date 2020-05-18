@@ -34,7 +34,7 @@ public class StringOperator
 
         }
 
-        // Print Frequency of characters
+
 
         for (i = 0; i < 256; i++) {
 
